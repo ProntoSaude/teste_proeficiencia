@@ -1,4 +1,4 @@
-![image](https://github.com/ProntoSaude/teste_proeficiencia/assets/140112999/e89c8388-efd3-440a-917f-dce640d4c5f0)![Pronto Saúde Digital|100x397,20%](https://i.imgur.com/ufUaJO5.png)
+![Pronto Saúde Digital|100x397,20%](https://i.imgur.com/ufUaJO5.png)
 
 # Backend Developer Challenge
 Este é um desafio simples para testar suas habilidades full stack na construção de páginas web.
