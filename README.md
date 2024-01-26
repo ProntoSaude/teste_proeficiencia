@@ -4,51 +4,37 @@
 Este é um desafio simples para testar suas habilidades full stack na construção de páginas web.
 Os serviços da Pronto Saúde Digital usam majoritariamente as tecnologias de Vue.js para o frontend e Node.js para o backend.
 
+Para codificar nossa interface gráfica utilizamos como base um template adquirido que está disponível em https://github.com/ProntoSaude/modernize-template. Utilize os componentes disponibilizados lá para montar sua interface.
+
+Não se preocupe com os arquivos de estilo como logo e cores, eles já estarão definidos em nosso sistema, bem como a formulação dos breadcrumbs e do menu do perfil, para este teste, utilize o padrão do template.
+
+Também não se preocupe com a alocação do arquivo nas pastas corretas, apenas entregue os arquivos .vue e .js que compõem sua solução.
+
 # O Desafio
-Crie uma página em vue.js simples para realizar o agendamento de consultas. Esta página deve:
-- Coletar a lista de espacilidades realizando o fech em uma api fictícia.
-- Editar um cliente
-- Obter um cliente específico
-- Listar clientes
+Crie uma página em vue.js simples para realizar avaliação de uma consulta. Esta página deve:
+- Coletar a avaliação do atendimento
+- Coletar a avaliação da plataforma
+- Coletar a avaliação do profissional
+- Apresentar o resumo do perfil do profissional
 
-Um Cliente deve ter os seguintes campos:
-- nome
-- data de nascimento
-- sexo 
-- [ problemas de saude ]
-- data de criação
-- data de atualização
+A imagem de insipiração é:
 
-Problemas de Saúde
-- nome
-- grau do problema (de 1 a 2)
-    
-    ```
-    ex: diabetes, grau 2
-    ```
+![Tela de avaliação|100x397,20%](https://imgur.com/X7eHCpM)
 
-Criar um endpoint para trazer os 10 clientes com maior risco de saúde, no qual o cálculo é:
-    
-    ```
-        sd = soma do grau dos problemas
-        score = (1 / (1 + eˆ-(-2.8 + sd ))) * 100
-    ```
+![Tela de avaliação|100x397,20%](https://imgur.com/B8ghWnF)
+
+
 
 # Requisitos
 - Todas as respostas da API devem ser JSON
 - Fornece um arquivo README.md com instruções de uso (como executar, endpoints etc)
 
 # Recomendações
-- Tests, tests and tests
-- SOLID
-- Código e commits em inglês (métodos, classes, variáveis, etc)
+- Código em português (métodos, classes, variáveis, etc)
 
 # Avaliação
-- Estrutura, arquitetura e organização do projeto
-- Boas práticas de programação
+- Boas práticas de programação.
 - Alcance dos objetivos propostos.
 
 # Entrega
-Você deve fazer um fork deste repositório e confirmar a solução na pasta de dev. Seu repositório deve ser público.
-
-Enviar um e-mail para tech@olisaude.com.br com a url da sua solução.
+Você deve realizar o envio dos arquivos para rambo@prontosaude.digital
