@@ -1,12 +1,12 @@
 ![Pronto Saúde Digital|100x397,20%](https://i.imgur.com/ufUaJO5.png)
 
 # Backend Developer Challenge
-Este é um desafio simples para testar suas habilidades na construção de APIs.
-Os serviços da Oli usam principalmente tecnologias Kotlin e Springboot. No entanto, você pode usar qualquer linguagem e framework que lhe pareça mais confortável.
+Este é um desafio simples para testar suas habilidades full stack na construção de páginas web.
+Os serviços da Pronto Saúde Digital usam majoritariamente as tecnologias de Vue.js para o frontend e Node.js para o backend.
 
 # O Desafio
-Crie uma API simples para gerenciar Clientes. Esta API deve permitir:
-- Criar um cliente
+Crie uma página em vue.js simples para realizar o agendamento de consultas. Esta página deve:
+- Coletar a lista de espacilidades realizando o fech em uma api fictícia.
 - Editar um cliente
 - Obter um cliente específico
 - Listar clientes
