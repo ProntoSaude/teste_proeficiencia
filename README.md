@@ -19,9 +19,9 @@ Crie uma página em vue.js simples para realizar avaliação de uma consulta. Es
 
 A imagem de insipiração é:
 
-![Tela de avaliação|100x397,20%](https://i.imgur.com/X7eHCpM.png)
 
 ![Tela de avaliação|100x397,20%](https://i.imgur.com/B8ghWnF.png)
+![Tela de avaliação|100x397,20%](https://i.imgur.com/X7eHCpM.png)
 
 
 # Requisitos
