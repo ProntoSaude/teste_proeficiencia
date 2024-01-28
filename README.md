@@ -12,12 +12,12 @@ Também não se preocupe com a alocação dos arquivos nas pastas corretas; apen
 
 # O Desafio
 Crie uma página simples em vue.js para realizar avaliação de uma consulta. Esta página deve:
-- Apresentar o resumo do perfil do profissional
-- Coletar a avaliação do atendimento
-- Coletar a avaliação da plataforma
-- Coletar a avaliação do profissional
+- Apresentar o resumo do perfil do profissional.
+- Coletar a avaliação do atendimento.
+- Coletar a avaliação da plataforma.
+- Coletar a avaliação do profissional.
 
-A seguir, são disponibilizadas imagens que servem como inspiração para elaboração da estrutura da sua página:
+A seguir, são disponibilizadas imagens que servem como inspiração para elaboração da estrutura de sua página:
 
 ![Tela de avaliação|100x397,20%](https://i.imgur.com/B8ghWnF.png)
 ![Tela de avaliação|100x397,20%](https://i.imgur.com/X7eHCpM.png)
