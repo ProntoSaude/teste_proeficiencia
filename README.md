@@ -4,7 +4,7 @@
 Este é um desafio simples para testar suas habilidades full stack na construção de páginas web.
 Os serviços da Pronto Saúde Digital usam majoritariamente as tecnologias de Vue.js para o frontend e Node.js para o backend.
 
-Para codificar nossa interface gráfica utilizamos como base um template adquirido que está disponível em https://github.com/ProntoSaude/modernize-template. Utilize os componentes disponibilizados lá para montar sua interface e realize as adaptações que julgar necessário.
+Para codificar nossa interface gráfica utilizamos como base um template adquirido que está disponível em https://github.com/ProntoSaude/modernize-template. Utilize os componentes disponibilizados lá para montar sua interface e realize as adaptações que julgar necessárias.
 
 Não se preocupe com os arquivos de estilo como logo e cores, nem com a formulação dos breadcrumbs e do menu do perfil. Para este teste, utilize o padrão do template.
 
