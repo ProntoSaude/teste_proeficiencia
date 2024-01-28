@@ -32,7 +32,7 @@ Não é necessário realizar requisições para coletar as informações de info
 
 # A API
 
-Sua api deve conter apenas uma rota (nomeclatura livre) do tipo post e deve realizar a gravação das informações recebidas em um banco de dados MongoDB. Não é necessário provisionar a infraestrutura do banco de dados, apenas configure o schema e o processo de envio para o banco e deixe a URL preparada para receber seus dados de um arquivo .env.
+Sua api deve conter apenas uma rota (nomeclatura livre) do tipo post e deve realizar a gravação das informações recebidas em um banco de dados MongoDB. Utilize o framework express.js para sua API. Não é necessário provisionar a infraestrutura do banco de dados, apenas configure o schema e o processo de envio para o banco e deixe a URL preparada para receber seus dados de um arquivo .env.
 
 Informações necessárias para gravação (pode utilizar valores aleatórios):
 
@@ -50,8 +50,11 @@ Informações necessárias para gravação (pode utilizar valores aleatórios):
 - Código em português (métodos, classes, variáveis, etc)
 
 # Avaliação
-- Boas práticas de programação.
+- Qualidade do código.
 - Alcance dos objetivos propostos.
+- Escalabilidade, Manutenção e Documentação do Código.
+- Não há prazo determinado para a entrega da avaliação, será avaliada a relação entre tempo gasto e resultado entregue.
 
 # Entrega
 Você deve realizar o envio dos arquivos para rambo@prontosaude.digital
+
