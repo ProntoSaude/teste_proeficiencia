@@ -6,12 +6,12 @@ Os serviços da Pronto Saúde Digital usam majoritariamente as tecnologias de Vu
 
 Para codificar nossa interface gráfica utilizamos como base um template adquirido que está disponível em https://github.com/ProntoSaude/modernize-template. Utilize os componentes disponibilizados lá para montar sua interface e realize as adaptações que julgar necessário.
 
-Não se preocupe com os arquivos de estilo como logo e cores, nem com a formulação dos breadcrumbs e do menu do perfil, para este teste, utilize o padrão do template.
+Não se preocupe com os arquivos de estilo como logo e cores, nem com a formulação dos breadcrumbs e do menu do perfil. Para este teste, utilize o padrão do template.
 
-Também não se preocupe com a alocação dos arquivos nas pastas corretas, apenas entregue os arquivos .vue e .js que compõem sua solução.
+Também não se preocupe com a alocação dos arquivos nas pastas corretas; apenas entregue os arquivos .vue e .js que compõem sua solução.
 
 # O Desafio
-Crie uma página em vue.js simples para realizar avaliação de uma consulta. Esta página deve:
+Crie uma página simples em vue.js para realizar avaliação de uma consulta. Esta página deve:
 - Apresentar o resumo do perfil do profissional
 - Coletar a avaliação do atendimento
 - Coletar a avaliação da plataforma
@@ -26,13 +26,13 @@ As informações coletadas devem ser enviadas para uma rota da API que você ir�
 
 O ID da sessão a qual se refere a avaliação deverá ser obtido dinamicamente através da leitura do parâmetro "session" da URL da avaliação.
 
-Considere que o ID do profissional e usuário, bem como demais informações necessárias foram fornecidos e estão em uma variável.
+Considere que o ID do profissional e do usuário, bem como outras informações necessárias, foram fornecidos e estão em uma variável.
 
 Não é necessário realizar requisições para coletar informações adicionais para a página, de forma que elas podem estar no código de maneira "hardcoded".
 
 # A API
 
-Sua api deve conter apenas uma rota (nomeclatura livre) do tipo post e deve realizar a gravação das informações recebidas em um banco de dados MongoDB. Utilize o framework express.js para sua API. Não é necessário provisionar a infraestrutura do banco de dados, apenas configure o schema e o processo de envio para o banco e deixe a URL preparada para receber seu valor de um arquivo .env.
+Sua api deve conter apenas uma rota (nomeclatura livre) do tipo POST e deve realizar a gravação das informações recebidas em um banco de dados MongoDB. Utilize o framework express.js para sua API. Não é necessário provisionar a infraestrutura do banco de dados, apenas configure o schema e o processo de envio para o banco e deixe a URL preparada para receber seu valor de um arquivo .env.
 
 Informações necessárias para gravação no banco de dados (pode utilizar valores aleatórios):
 
@@ -53,7 +53,7 @@ Informações necessárias para gravação no banco de dados (pode utilizar valo
 - Qualidade do código.
 - Alcance dos objetivos propostos.
 - Escalabilidade, manutenabilidade e documentação do Código.
-- Não há prazo determinado para a entrega da avaliação, será avaliada a relação entre tempo gasto e resultado entregue.
+- Não há prazo determinado para a entrega da avaliação; será avaliada a relação entre tempo gasto e resultado entregue.
 
 # Entrega
 Você deve realizar o envio dos arquivos para rambo@prontosaude.digital.
