@@ -39,7 +39,7 @@ Informações necessárias para gravação no banco de dados (pode utilizar valo
 - ID do usuário que respondeu à pesquisa.
 - ID do profissional que realizou a consulta
 - ID da sessão da avaliação
-- Array de objetos das avaliações contendo nota e comentários de cada aspecto avaliado.
+- Array de objetos das avaliações contendo nota e comentário de cada aspecto avaliado.
 - Habilite o timestamps pra cada registro.
 
 # Requisitos
