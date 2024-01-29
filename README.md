@@ -1,6 +1,6 @@
 ![Pronto Saúde Digital|100x397,20%](https://i.imgur.com/ufUaJO5.png)
 
-# Backend Developer Challenge
+# Fullstack Developer Challenge
 Este é um desafio simples para testar suas habilidades full stack na construção de páginas web.
 Os serviços da Pronto Saúde Digital usam majoritariamente as tecnologias de Vue.js para o frontend e Node.js para o backend.
 
